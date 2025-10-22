@@ -80,14 +80,6 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-
-  links:
-    - label: "科研費データベース（KAKEN）"
-      url: "https://kaken.nii.ac.jp/ja/search/?qm=井戸川直人"
-      icon: "fas fa-database"     # 任意（Font Awesome）
-    - label: "researchmap"
-      url: "https://researchmap.jp/＜あなたのID＞"
-      icon: "fas fa-id-card"      # 任意
       
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
