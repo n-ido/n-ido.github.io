@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 under constraction.
-#cv
-#publications
+## cv
+## publications
 
