@@ -78,11 +78,6 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-  links:
-  - label: "researchmap"
-      url: "https://researchmap.jp/idogawa"
-  - label: "GRANTS"
-      url: "https://grants.jst.go.jp/search/?qg=%E4%BA%95%E6%88%B8%E5%B7%9D%E7%9B%B4%E4%BA%BA&kw=%E4%BA%95%E6%88%B8%E5%B7%9D%E7%9B%B4%E4%BA%BA"
       
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
