@@ -20,7 +20,7 @@ under constraction.
 - Research Fellow (JSPS DC1), Kyoto University, 2019–2022
 
 ## publications
-1. Kobayashi R., Okada Y., Akino T., **Idogawa N.** (2025). Temporary parasitic ants modify nestmate discrimination patterns of host workers. *bioRxiv*. DOI: 10.1101/2025.05.10.653236  
+- Kobayashi R., Okada Y., Akino T., **Idogawa N.** (2025). Temporary parasitic ants modify nestmate discrimination patterns of host workers. *bioRxiv*. DOI: 10.1101/2025.05.10.653236  
 1. **Idogawa N.**, Dobata S., Okada Y., Yamane S. (2025). A new species of *Monomorium* Mayr, 1855 (Hymenoptera: Formicidae) with a brachypterous queen from southern Japan, and phylogeny of Japanese *Monomorium* species with diverse reproductive strategies. *ZooKeys*, 1250, 49–78.  
 1. **Idogawa N.**, Gotoh A., Dobata S. (2022). Morphology of immatures of the thelytokous ant, *Monomorium triviale* Wheeler (Formicidae: Myrmicinae: Solenopsidini) with descriptions of the extraordinary last-instar queen larvae. *Zootaxa*, 5105(2), 253–268.  
 1. **Idogawa N.**, Lee C.-C., Yang C.-C. S., Dobata S. (2021). The complete mitochondrial genome of a parthenogenetic ant *Monomorium triviale* (Hymenoptera: Formicidae). *Mitochondrial DNA Part B*, 6(10), 2793–2795.  
