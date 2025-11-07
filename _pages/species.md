@@ -1,7 +1,12 @@
 ---
-title: "Species Catalog"
+title: "Japanese Solenopsidini"
 permalink: /species/
 layout: collection
-collection: species
-entries_layout: grid   # 一覧の並び方（任意）
 ---
+
+## Monomorium
+- [Monomorium triviale](/species/monomorium-triviale/)
+- [Monomorium xxx](/species/monomorium-xxx/)
+
+## Lioponera
+- [Lioponera daikoku](/species/lioponera-daikoku/)
