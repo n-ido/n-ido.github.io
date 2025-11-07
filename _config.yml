@@ -232,6 +232,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  species:
+    output: true
+    permalink: /species/:name/
 
 
 # These settings control how pages and collections are included in the site
