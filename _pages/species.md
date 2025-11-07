@@ -1,7 +1,7 @@
 ---
 title: "Japanese Solenopsidini"
 permalink: /species/
-layout: page
+layout: single
 ---
 
 ## Monomorium
