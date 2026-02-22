@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-under constraction.
+I am a myrmecologist exploring the social evolution of ants. I focus on uncovering evolutionary scenarios where diverse societies emerge through unique and specialized modes of reproduction.
 ## cv
 
 ### Education
