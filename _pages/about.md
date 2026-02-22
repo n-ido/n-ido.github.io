@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Naoto Idogawa (井戸川　直人)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+# Welcome!
 I am a myrmecologist exploring the social evolution of ants. I focus on uncovering evolutionary scenarios where diverse societies emerge through unique and specialized modes of reproduction.
 ## cv
 
