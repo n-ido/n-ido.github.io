@@ -23,7 +23,7 @@ I am a myrmecologist exploring the social evolution of ants. I focus on uncoveri
 
 ## publications
 - Kobayashi R., Okada Y., Akino T., **Idogawa N.** (2025). Temporary parasitic ants modify nestmate discrimination patterns of host workers. *bioRxiv*. DOI: 10.1101/2025.05.10.653236
-
+1. Kawamoto K, Idogawa N., Nishimura K., Okada Y. (2026). A multidisciplinary assessment of social structure and reproductive strategy of the range-restricted ant *Plagiolepis flavescens*. *Journal of Natural History*, 60(29–32), 1553–1567.
 1. Kishino K., Oikawa Y., Wakamiya T., Araya K., Hosoya T., **Idogawa N.,** Nozawa M., Katoh T., Okada Y. (2026). Cessation of Gene Flow Associated With the Reduction of a Sexually Selected Phenotype in the Island Stag Beetle. *Molecular Ecology*, 35(12), e70435.
 1. **Idogawa N.**, Dobata S., Okada Y., Yamane S. (2025). A new species of *Monomorium* Mayr, 1855 (Hymenoptera: Formicidae) with a brachypterous queen from southern Japan, and phylogeny of Japanese *Monomorium* species with diverse reproductive strategies. *ZooKeys*, 1250, 49–78.  
 1. **Idogawa N.**, Gotoh A., Dobata S. (2022). Morphology of immatures of the thelytokous ant, *Monomorium triviale* Wheeler (Formicidae: Myrmicinae: Solenopsidini) with descriptions of the extraordinary last-instar queen larvae. *Zootaxa*, 5105(2), 253–268.  
